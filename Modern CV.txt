@@ -1,0 +1,58 @@
+Summary
+		Experienced Software Developer with excellent Java skill and good knowledge of related technologies. Currently living in S.-Petersburg, Russia.
+		Relocation outside Russian Federation is acceptable.
+
+Mobile: +7(921)390-20-78
+E-mail: mjelnr@gmail.com
+Skype: 	mjelnir
+
+Specialities:
+
+Areas of Expertise: 
+		Software development and maintenance, Java, Scala, Javascript, Web development, Android, Eclipse platform, Mobile platforms.
+
+Skills: 
+		Strong core Java development experience.
+		Solid understanding OOP and Functional programming principles.
+		Eclipse, PDE and RCP programming
+		Scala and Java development experience with Play framework.
+		Web development: HTML, CSS, Javascript.
+		Software development in C, C++.
+		Experience with application servers and containers as well as developing JavaEE applications.
+		Understanding SQL, JDBC, Hibernate.
+		Ability to develop creative solutions for complex problems.
+		Willing to permanently increase 
+
+Skills Summary:
+		Java / JavaEE / JavaME
+		Scala
+		Javascript / JQuery
+		HTML / CSS
+		Unix / Linux / Windows
+
+Employment History:
+		Research Engineer
+		LG Electronics Inc.
+		Nov. 2008 - Present • Petersburg, Russia
+		Taking part in development LG Electronics projects. Generally as Java Developer but also were used C, Javascript, Scala, SQL and many of related frameworks and technologies.
+		
+		* Development and maintenance of LG Eclipse based products.
+		* Development and maintenance of LG SDK Mobile Platform. 
+		* Development of LG Web application for remote system of security threat detection.
+		* Android application development.
+		* Development and maintenance of Javascript applications for WebOS.
+		
+		Java Developer
+		Zodiac Interactive
+		Sep. 2007 - March 2008 • Petersburg, Russia
+		Maintenance of mobile platform PowerUp for interactive TV.
+		* Development of part of mobile platform PowerUp.
+		* The platform performance improvement.
+		* Bug fixing and debugging.
+		
+		Java Developer
+		Octavian Int Ltd.
+		July 2006 - Sep. 2007 • Petersburg
+		Games software development for slot machines.
+		* Maintenance of Chicago game
+		* Development of Captain Parrot game
